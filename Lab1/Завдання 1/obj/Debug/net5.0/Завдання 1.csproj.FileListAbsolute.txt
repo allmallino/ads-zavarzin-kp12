@@ -1,0 +1,16 @@
+C:\Users\Александр\Desktop\projects\АСД01\Завдання 1\bin\Debug\net5.0\Завдання 1.exe
+C:\Users\Александр\Desktop\projects\АСД01\Завдання 1\bin\Debug\net5.0\Завдання 1.deps.json
+C:\Users\Александр\Desktop\projects\АСД01\Завдання 1\bin\Debug\net5.0\Завдання 1.runtimeconfig.json
+C:\Users\Александр\Desktop\projects\АСД01\Завдання 1\bin\Debug\net5.0\Завдання 1.runtimeconfig.dev.json
+C:\Users\Александр\Desktop\projects\АСД01\Завдання 1\bin\Debug\net5.0\Завдання 1.dll
+C:\Users\Александр\Desktop\projects\АСД01\Завдання 1\bin\Debug\net5.0\ref\Завдання 1.dll
+C:\Users\Александр\Desktop\projects\АСД01\Завдання 1\bin\Debug\net5.0\Завдання 1.pdb
+C:\Users\Александр\Desktop\projects\АСД01\Завдання 1\obj\Debug\net5.0\Завдання 1.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\projects\АСД01\Завдання 1\obj\Debug\net5.0\Завдання 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\projects\АСД01\Завдання 1\obj\Debug\net5.0\Завдання 1.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\projects\АСД01\Завдання 1\obj\Debug\net5.0\Завдання 1.AssemblyInfo.cs
+C:\Users\Александр\Desktop\projects\АСД01\Завдання 1\obj\Debug\net5.0\Завдання 1.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\projects\АСД01\Завдання 1\obj\Debug\net5.0\Завдання 1.dll
+C:\Users\Александр\Desktop\projects\АСД01\Завдання 1\obj\Debug\net5.0\ref\Завдання 1.dll
+C:\Users\Александр\Desktop\projects\АСД01\Завдання 1\obj\Debug\net5.0\Завдання 1.pdb
+C:\Users\Александр\Desktop\projects\АСД01\Завдання 1\obj\Debug\net5.0\Завдання 1.genruntimeconfig.cache
