@@ -1,0 +1,16 @@
+C:\Users\Александр\source\repos\АСД Лабараторная 2\АСД Лабараторная 2\bin\Debug\net5.0\АСД Лабараторная 2.exe
+C:\Users\Александр\source\repos\АСД Лабараторная 2\АСД Лабараторная 2\bin\Debug\net5.0\АСД Лабараторная 2.deps.json
+C:\Users\Александр\source\repos\АСД Лабараторная 2\АСД Лабараторная 2\bin\Debug\net5.0\АСД Лабараторная 2.runtimeconfig.json
+C:\Users\Александр\source\repos\АСД Лабараторная 2\АСД Лабараторная 2\bin\Debug\net5.0\АСД Лабараторная 2.runtimeconfig.dev.json
+C:\Users\Александр\source\repos\АСД Лабараторная 2\АСД Лабараторная 2\bin\Debug\net5.0\АСД Лабараторная 2.dll
+C:\Users\Александр\source\repos\АСД Лабараторная 2\АСД Лабараторная 2\bin\Debug\net5.0\ref\АСД Лабараторная 2.dll
+C:\Users\Александр\source\repos\АСД Лабараторная 2\АСД Лабараторная 2\bin\Debug\net5.0\АСД Лабараторная 2.pdb
+C:\Users\Александр\source\repos\АСД Лабараторная 2\АСД Лабараторная 2\obj\Debug\net5.0\АСД Лабараторная 2.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\АСД Лабараторная 2\АСД Лабараторная 2\obj\Debug\net5.0\АСД Лабараторная 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\source\repos\АСД Лабараторная 2\АСД Лабараторная 2\obj\Debug\net5.0\АСД Лабараторная 2.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\АСД Лабараторная 2\АСД Лабараторная 2\obj\Debug\net5.0\АСД Лабараторная 2.AssemblyInfo.cs
+C:\Users\Александр\source\repos\АСД Лабараторная 2\АСД Лабараторная 2\obj\Debug\net5.0\АСД Лабараторная 2.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\АСД Лабараторная 2\АСД Лабараторная 2\obj\Debug\net5.0\АСД Лабараторная 2.dll
+C:\Users\Александр\source\repos\АСД Лабараторная 2\АСД Лабараторная 2\obj\Debug\net5.0\ref\АСД Лабараторная 2.dll
+C:\Users\Александр\source\repos\АСД Лабараторная 2\АСД Лабараторная 2\obj\Debug\net5.0\АСД Лабараторная 2.pdb
+C:\Users\Александр\source\repos\АСД Лабараторная 2\АСД Лабараторная 2\obj\Debug\net5.0\АСД Лабараторная 2.genruntimeconfig.cache
