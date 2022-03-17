@@ -1,0 +1,15 @@
+C:\Users\Александр\source\repos\Lab_05 ASD\bin\Debug\net6.0\Lab_05 ASD.exe
+C:\Users\Александр\source\repos\Lab_05 ASD\bin\Debug\net6.0\Lab_05 ASD.deps.json
+C:\Users\Александр\source\repos\Lab_05 ASD\bin\Debug\net6.0\Lab_05 ASD.runtimeconfig.json
+C:\Users\Александр\source\repos\Lab_05 ASD\bin\Debug\net6.0\Lab_05 ASD.dll
+C:\Users\Александр\source\repos\Lab_05 ASD\bin\Debug\net6.0\Lab_05 ASD.pdb
+C:\Users\Александр\source\repos\Lab_05 ASD\obj\Debug\net6.0\Lab_05 ASD.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\Lab_05 ASD\obj\Debug\net6.0\Lab_05 ASD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\source\repos\Lab_05 ASD\obj\Debug\net6.0\Lab_05 ASD.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\Lab_05 ASD\obj\Debug\net6.0\Lab_05 ASD.AssemblyInfo.cs
+C:\Users\Александр\source\repos\Lab_05 ASD\obj\Debug\net6.0\Lab_05 ASD.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\Lab_05 ASD\obj\Debug\net6.0\Lab_05 ASD.dll
+C:\Users\Александр\source\repos\Lab_05 ASD\obj\Debug\net6.0\refint\Lab_05 ASD.dll
+C:\Users\Александр\source\repos\Lab_05 ASD\obj\Debug\net6.0\Lab_05 ASD.pdb
+C:\Users\Александр\source\repos\Lab_05 ASD\obj\Debug\net6.0\Lab_05 ASD.genruntimeconfig.cache
+C:\Users\Александр\source\repos\Lab_05 ASD\obj\Debug\net6.0\ref\Lab_05 ASD.dll

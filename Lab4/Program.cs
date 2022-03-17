@@ -99,7 +99,7 @@ namespace ЛабаАСД4
             }
             else
             {
-                WriteLine("Список вже пустий");
+                WriteLine("Список вже порожній");
             }
         }
         public void DeleteFromPosition(int position) 
@@ -115,7 +115,7 @@ namespace ЛабаАСД4
             }
             else
             {
-                WriteLine("Список вже пустий");
+                WriteLine("Список вже порожній");
             }
         }
         public void DeleteLast()
@@ -139,14 +139,14 @@ namespace ЛабаАСД4
             }
             else
             {
-                WriteLine("Список вже пустий");
+                WriteLine("Список вже порожній");
             }
         }
         public void Print() 
         {
             if(head == null)
             {
-                WriteLine("Список пустий");
+                WriteLine("Список порожній");
             }
             else
             {
