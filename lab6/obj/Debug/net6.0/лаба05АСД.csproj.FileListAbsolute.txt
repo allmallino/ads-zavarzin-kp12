@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\projects\лаба05АСД\bin\Debug\net6.0\лаба05АСД.exe
+C:\Users\Александр\Desktop\projects\лаба05АСД\bin\Debug\net6.0\лаба05АСД.deps.json
+C:\Users\Александр\Desktop\projects\лаба05АСД\bin\Debug\net6.0\лаба05АСД.runtimeconfig.json
+C:\Users\Александр\Desktop\projects\лаба05АСД\bin\Debug\net6.0\лаба05АСД.dll
+C:\Users\Александр\Desktop\projects\лаба05АСД\bin\Debug\net6.0\лаба05АСД.pdb
+C:\Users\Александр\Desktop\projects\лаба05АСД\obj\Debug\net6.0\лаба05АСД.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\projects\лаба05АСД\obj\Debug\net6.0\лаба05АСД.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\projects\лаба05АСД\obj\Debug\net6.0\лаба05АСД.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\projects\лаба05АСД\obj\Debug\net6.0\лаба05АСД.AssemblyInfo.cs
+C:\Users\Александр\Desktop\projects\лаба05АСД\obj\Debug\net6.0\лаба05АСД.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\projects\лаба05АСД\obj\Debug\net6.0\лаба05АСД.dll
+C:\Users\Александр\Desktop\projects\лаба05АСД\obj\Debug\net6.0\refint\лаба05АСД.dll
+C:\Users\Александр\Desktop\projects\лаба05АСД\obj\Debug\net6.0\лаба05АСД.pdb
+C:\Users\Александр\Desktop\projects\лаба05АСД\obj\Debug\net6.0\лаба05АСД.genruntimeconfig.cache
+C:\Users\Александр\Desktop\projects\лаба05АСД\obj\Debug\net6.0\ref\лаба05АСД.dll
