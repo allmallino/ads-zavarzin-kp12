@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\projects\Lab07_ASD\obj\Debug\net6.0\Lab07_ASD.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\projects\Lab07_ASD\obj\Debug\net6.0\Lab07_ASD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\projects\Lab07_ASD\obj\Debug\net6.0\Lab07_ASD.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\projects\Lab07_ASD\obj\Debug\net6.0\Lab07_ASD.AssemblyInfo.cs
+C:\Users\Александр\Desktop\projects\Lab07_ASD\obj\Debug\net6.0\Lab07_ASD.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\projects\Lab07_ASD\bin\Debug\net6.0\Lab07_ASD.exe
+C:\Users\Александр\Desktop\projects\Lab07_ASD\bin\Debug\net6.0\Lab07_ASD.deps.json
+C:\Users\Александр\Desktop\projects\Lab07_ASD\bin\Debug\net6.0\Lab07_ASD.runtimeconfig.json
+C:\Users\Александр\Desktop\projects\Lab07_ASD\bin\Debug\net6.0\Lab07_ASD.dll
+C:\Users\Александр\Desktop\projects\Lab07_ASD\bin\Debug\net6.0\Lab07_ASD.pdb
+C:\Users\Александр\Desktop\projects\Lab07_ASD\obj\Debug\net6.0\Lab07_ASD.dll
+C:\Users\Александр\Desktop\projects\Lab07_ASD\obj\Debug\net6.0\refint\Lab07_ASD.dll
+C:\Users\Александр\Desktop\projects\Lab07_ASD\obj\Debug\net6.0\Lab07_ASD.pdb
+C:\Users\Александр\Desktop\projects\Lab07_ASD\obj\Debug\net6.0\Lab07_ASD.genruntimeconfig.cache
+C:\Users\Александр\Desktop\projects\Lab07_ASD\obj\Debug\net6.0\ref\Lab07_ASD.dll
